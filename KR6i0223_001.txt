@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:21.459891
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:58
 #+TITLE: 佛說四天王經
 #+PROPERTY: CBETA_ID T15n0590
 #+PROPERTY: ID KR6i0223
